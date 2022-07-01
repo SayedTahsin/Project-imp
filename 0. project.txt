@@ -1,0 +1,7 @@
+fstream:
+    1. write  :ios::app
+    2. read   :ios::in
+    3. search :ios::in
+    4. update :ios::in|ios::out
+    5. delete :ios::in
+              ios::app
